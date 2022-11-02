@@ -1,1 +1,7 @@
  
+[submodule "_gallery"]
+	path = _gallery
+	url = http://github.com/inf2021122/_gallery
+[submodule "images"]
+	path = images
+	url = http://github.com/inf2021122/images
