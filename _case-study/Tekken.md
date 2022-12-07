@@ -12,5 +12,5 @@ tags:
   - Tekken Tournament:  
 ---
 
-{% include cs-Tekken.md
+{% include cs-Tekken.md}
 
