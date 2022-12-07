@@ -15,6 +15,8 @@ tags:
 - playStation Portable
 ---
 
+{% include bio-Ken-kutaragi.md
+
 
 
 
